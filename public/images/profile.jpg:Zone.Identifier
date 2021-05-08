@@ -1,4 +1,4 @@
 [ZoneTransfer]
 ZoneId=3
-ReferrerUrl=https://duckduckgo.com/
-HostUrl=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thestar.com%2Fcontent%2Fdam%2Fthestar%2Fsports%2Fhockey%2F2011%2F01%2F20%2Fwhen_99_turns_50%2Fspgretzky20.jpeg.size.custom.crop.1086x724.jpg&f=1&nofb=1
+ReferrerUrl=https://raw.githubusercontent.com/wcrowe/nextjs-blog/3d1386a32b93724a86b8b1a64bc8177cef4f5140/public/images/profile.jpg
+HostUrl=https://raw.githubusercontent.com/wcrowe/nextjs-blog/3d1386a32b93724a86b8b1a64bc8177cef4f5140/public/images/profile.jpg
